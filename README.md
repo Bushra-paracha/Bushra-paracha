@@ -1,7 +1,7 @@
 # Hi, I'm Bushra Paracha 👋
 
 **Applied Math & Statistics + Information Systems @ Stony Brook University**
-I build practical software for real businesses — CRMs, export-workflow tools, and company websites — and I like the part where data, operations and code meet.
+I build practical software for real businesses - CRMs, export-workflow tools, and company websites - and I like the part where data, operations and code meet.
 
 Right now I handle business development, operations and technical work at **Kassam Trading Company**, a rice milling and export business in Karachi, where I design and ship the internal tools the team uses day to day. I've also interned at a major e-commerce company, building HR and recruiting tools for its People team.
 
@@ -16,7 +16,7 @@ React · Vite · Supabase (Postgres, Auth, Edge Functions) · PWA
 - Role-based approvals, row-level security, offline-ready mobile layout
 - 135+ commits of iterative, sprint-based development
 
-**HR tools — internship at a major e-commerce company** *(internal, private repos)*
+**HR tools - internship at a major e-commerce company** *(internal, private repos)*
 React · TypeScript · Vite · Tailwind CSS · Recharts · Vercel
 - **Talent Acquisition Dashboard** — recruitment dashboard covering open/on-hold/offer positions, hiring pipeline, turnaround time, trends and recruiter workload; service-layer architecture so mock data can be swapped for a real API, plus a single-file build that can be shared by email with no install
 - **Onboarding Tracker** — mobile-first app where new joiners get a personal link showing what to do and who to contact before and on Day 1, while HR, Admin, IT and Security each work their own task queue; encodes real workflow rules (e.g. gate check-in blocked until Admin registration is done)
@@ -41,4 +41,4 @@ React · TypeScript · Vite · Tailwind CSS · Recharts · Vercel
 ---
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/bushrap) · parachabushra4@gmail.com · https://bushraparachaportfolio.com
+[LinkedIn](https://www.linkedin.com/in/bushrap) · parachabushra4@gmail.com · [portfolio](https://bushraparachaportfolio.com)
