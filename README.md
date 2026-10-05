@@ -41,4 +41,4 @@ React · TypeScript · Vite · Tailwind CSS · Recharts · Vercel
 ---
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/bushrap) · parachabushra6@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bushrap) · parachabushra4@gmail.com · https://bushraparachaportfolio.com
