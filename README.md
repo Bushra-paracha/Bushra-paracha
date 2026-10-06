@@ -22,7 +22,7 @@ React · TypeScript · Vite · Tailwind CSS · Recharts · Vercel
 - **Onboarding Tracker** — mobile-first app where new joiners get a personal link showing what to do and who to contact before and on Day 1, while HR, Admin, IT and Security each work their own task queue; encodes real workflow rules (e.g. gate check-in blocked until Admin registration is done)
 
 **Company websites** — [kassamtradingcompany.com](https://kassamtradingcompany.com)
-- React + FastAPI site with product catalog, certifications and quote requests
+- [React + FastAPI site](https://github.com/Bushra-paracha/kassam-trading-company-fullstack) with product catalog, certifications, quote requests and an admin CMS
 - Lightweight static version (HTML/CSS/JS) deployed on Netlify
 
 **Networking & systems coursework**
